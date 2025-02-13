@@ -9,4 +9,4 @@ redirect_from:
 
 I am a undergraduate student from [School of Mathematical Science, East China Normal University](https://math.ecnu.edu.cn/).
 
-My academic intersection is on algebraic geometry, especially algebraic dynamics.
+My academic interest is on algebraic geometry, especially algebraic dynamics.
